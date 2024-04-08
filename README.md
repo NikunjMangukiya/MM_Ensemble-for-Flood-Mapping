@@ -3,7 +3,7 @@
 
 This code contains machine learning-based multi-model ensemble framework for fluvial flood inundation mapping.
 
-There are two models: (i) flood extent model and (ii) flood depth model
+There are two models: (i) Flood Extent Model and (ii) Flood Depth Model
 
 ### Citation
 
